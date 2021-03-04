@@ -25,6 +25,10 @@ namespace StudentManager
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/site.css"));
+
+            // bootstrap 5 css
+            bundles.Add(new StyleBundle("~/Content/bootstrap").Include(
+                      "~/Content/bootstrap/bootstrap.min.css"));
         }
     }
 }
