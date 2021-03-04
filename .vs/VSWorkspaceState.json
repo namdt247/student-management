@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\StudentManager",
-    "\\StudentManager\\App_Start",
-    "\\StudentManager\\Content",
-    "\\StudentManager\\Scripts",
-    "\\StudentManager\\Scripts\\bootstrap",
-    "\\StudentManager\\Views",
-    "\\StudentManager\\Views\\Home",
-    "\\StudentManager\\Views\\Manage",
-    "\\StudentManager\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\StudentManager\\Scripts\\bootstrap\\bootstrap.min.js",
+  "SelectedNode": "\\StudentManager.sln",
   "PreviewInSolutionExplorer": false
 }
